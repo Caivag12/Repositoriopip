@@ -1,0 +1,7 @@
+README.md
+setup.py
+Repositoiopip.egg-info/PKG-INFO
+Repositoiopip.egg-info/SOURCES.txt
+Repositoiopip.egg-info/dependency_links.txt
+Repositoiopip.egg-info/top_level.txt
+Repositoriopip/__init__.py
